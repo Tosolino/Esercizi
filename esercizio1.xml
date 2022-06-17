@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <tag>
+        <well>
+            <child></child>
+        </well>
+        <noWell>
+            <noWellNested>
+                <bro></bro>
+                <newchild></newchild>
+            </noWellNested>
+        </noWell>
+    </tag>
+</doc>
